@@ -123,7 +123,7 @@ export function SideBar(props: { className?: string }) {
           Polymaker ChatGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          For Polymaker Internal Use Only.
+          For internal use only.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
